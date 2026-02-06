@@ -119,7 +119,7 @@ Lab e wrap-up.
 | Leo Tommaso               | CV1 |  |
 | Mignami Nicole            | CV1 | https://nicomigna.github.io/ilmiosito-nm |
 | Riccio Sara               | CV1 | https://saariccio.github.io/ilmiosito |
-| Scofano Mattia            | CV1 |  |
+| Scofano Mattia            | CV1 | https://mattiascofano.github.io/mspace/ |
 | Seker Hakan               | CV1 | https://hs28-04.github.io/CV1_Seminar_202_01 |
 | Stanga Vito               | CV1 |  |
 | Videira Alice             | CV1 |  |
